@@ -1,0 +1,24 @@
+* {
+    text-align: center;
+}
+
+ul {
+    list-style:none;
+   text-align: center;
+}
+
+.hate {
+    margin-right: 3%;
+}
+.loves {
+    margin-right: 3%;
+}
+
+
+.cuaform {
+    text-align: center;
+    background-color: rgba(45, 31, 194, 0.133);
+    height: 53vh;
+    width: 20vw;
+    margin-left: 34.4%;
+}
